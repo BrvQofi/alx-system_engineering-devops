@@ -1,2 +1,2 @@
 #!/bin/bashfile
-file /tmp/iamfile
+file /tmp/iamfile: ELF 64-bit LSB shared object
